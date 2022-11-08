@@ -204,6 +204,7 @@ footer #fatec{
 }
 #footer-imgs {
     justify-content: center;
+    margin: 1em;
 }
 #footer-imgs .bi:hover{
     color: white;

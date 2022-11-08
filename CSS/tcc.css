@@ -77,17 +77,14 @@ article p{
     transition: 1s;
 }
 footer{
-    background-color: #261830;
+    background-color: var(--footer);
     padding: 1em 6em;
-    width: 100%;
-    margin-bottom: 0;
 }
 footer #fatec{
     text-align: center;
 }
-#footer-imgs {
-    justify-content: center;
-    margin: 1em;
+#footer-imgs a{
+    margin: auto ;
 }
 #footer-imgs .bi:hover{
     color: white;

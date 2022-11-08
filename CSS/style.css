@@ -202,9 +202,8 @@ footer{
 footer #fatec{
     text-align: center;
 }
-#footer-imgs {
-    justify-content: center;
-    margin: 1em;
+#footer-imgs a{
+    margin: auto ;
 }
 #footer-imgs .bi:hover{
     color: white;

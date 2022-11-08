@@ -38,7 +38,7 @@ nav > a {
 article {
     font-family: 'Montserrat', sans-serif;
     margin: 1em auto;
-    padding: 4em 2em;
+    padding: 2em 2em;
     background-color: #484c508f;
     border-radius: 2em;
     text-align: center;
@@ -54,10 +54,9 @@ h2{
 h3{
     font-size: 1.5em;
 }
-p{
+article p{
     color: #b9b9b9;
-    font-size: 1.4em;
-    margin: 1.6em;
+    font-size: 1.2em;
 }
 #title{
     color: #e89bff;
@@ -79,9 +78,11 @@ p{
     color: white;
     transition: 0.5s;
 }
-.app{
+.capa img{
     border-radius: 2em;
+    margin-bottom: 1.5em;
 }
+
 footer{
     background-color: #261830;
     padding: 1em 6em;
